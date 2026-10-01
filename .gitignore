@@ -1,0 +1,22 @@
+# Virtual Environment
+virtual4/
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+
+echo "# Hotel_Clustering" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jjishanbaig/Hotel_Clustering.git
+git push -u origin main
+data/Hotel_Reviews.csv
+
