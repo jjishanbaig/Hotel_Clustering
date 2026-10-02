@@ -5,3 +5,6 @@ joblib
 matplotlib
 seaborn
 jupyter
+scipy
+streamlit
+plotly
